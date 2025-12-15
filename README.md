@@ -70,6 +70,7 @@ endmodule
 <img width="1907" height="905" alt="Screenshot 2025-12-13 181723" src="https://github.com/user-attachments/assets/3220da2c-3816-45c0-8e53-625ab120a6c4" />
 
 **TIMING DIAGRAM FOR IP COUNTER**
+<img width="1907" height="959" alt="Screenshot 2025-12-16 002133" src="https://github.com/user-attachments/assets/e46cd093-72d2-47fa-8390-3b840118af6b" />
 
 **TRUTH TABLE**
 
@@ -77,4 +78,4 @@ endmodule
 
 **RESULTS**
 
-Thus the Synchronous 3 bit Up counter is implemeted and verified.
+Thus the Synchronous 3-Bit Up Counter is implemeted and verified.
