@@ -73,3 +73,5 @@ endmodule
 **TRUTH TABLE**
 
 **RESULTS**
+
+Thus the Synchronous 3 bit Up counter is implemeted and verified.
