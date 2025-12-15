@@ -67,6 +67,7 @@ endmodule
 
 ```
 **RTL LOGIC UP COUNTER**
+<img width="1907" height="905" alt="Screenshot 2025-12-13 181723" src="https://github.com/user-attachments/assets/3220da2c-3816-45c0-8e53-625ab120a6c4" />
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
