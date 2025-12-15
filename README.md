@@ -72,6 +72,8 @@ endmodule
 
 **TRUTH TABLE**
 
+![image](https://github.com/user-attachments/assets/0fb8b9e7-90ef-4bd0-ad9c-264bcf904281)
+
 **RESULTS**
 
 Thus the Synchronous 3 bit Up counter is implemeted and verified.
